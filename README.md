@@ -49,8 +49,4 @@ All photos downloaded and saved to exampleusername.zip
 ## Note
 
 - Ensure you have the necessary permissions to download photos from the Instagram profile you specify.
-- This script does not support downloading photos from private profiles unless you have access.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+- This script does not support downloading photos from private profiles.
