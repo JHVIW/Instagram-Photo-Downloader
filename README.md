@@ -32,7 +32,7 @@ This project allows you to download all photos from an Instagram profile and sav
 Run the script and provide the Instagram username when prompted:
 
 ```bash
-python download_photos.py
+python main.py
 ```
 
 You will be asked to enter the Instagram username. The script will download all photos from the profile and save them in a ZIP file named after the username.
@@ -40,7 +40,7 @@ You will be asked to enter the Instagram username. The script will download all 
 ## Example
 
 ```bash
-$ python download_photos.py
+$ python main.py
 Enter the Instagram username: exampleusername
 Downloading photos from Instagram profile: exampleusername
 All photos downloaded and saved to exampleusername.zip
